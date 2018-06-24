@@ -1,0 +1,79 @@
+Specifications
+Basic
+Type Of Camera	SLR
+Effective Resolution	16.2MP
+Sensor Type	CMOS
+
+Lens
+Optical Zoom	3x
+
+Screen
+LCD Size	3
+Resolution	921K
+Aspect Ratio	16:9
+
+Shooting Specs
+Imaging Processor	EXPEED C2 image engine
+ISO Sensitivity Range	ISO 100 - 6400
+White Balance	Auto / Cloudy / Direct Sunlight / Flash / Fluorescent (7 types) / Incandescent / Preset Manual / Shade
+Shutter Speed	1/4000 to 30 sec.
+Burst Mode	4 fps
+
+Scene Modes	Autumn Colors
+-Beach / Snow
+-Blossom
+-Candlelight
+-Child
+-Close-up
+-Dusk / Dawn
+-Food
+-Landscape
+-Night Landscape
+-Night Portrait
+-Party / Indoor
+-Pet Portrait
+-Portrait
+-Sports
+-Sunset
+Shooting Mode (PSAM)	Shutter-Priority Auto
+-Manual
+
+Video
+Maximum Resolution	1920 x 1080
+Maximum Frame Rate	30fps
+
+Media
+Storage	SD, SDHC, SDXC
+File Formats Supported	JPEG
+
+Connectivity
+USB Cable	Yes
+HDMI	Yes
+
+Battery
+Type Of Battery	Li-Ion
+Numbers Of Shots	660
+
+Dimensions
+Dimensions (W X D X H)	127 x 78.7 x 96.5 mm
+Weight	509 grams
+
+More Features
+Other Features	Bulb Shutter Setting
+-Exposure Lock
+-Mirror Lock Up
+-Long Exposure Noise Reduction
+-Single-point AF Mode
+-Auto-area AF Mode
+-Built-in Flash
+-Red-Eye reduction
+-Live View Shooting
+-Image Comment
+-Recent Settings
+-Date, Time and Daylight Savings Time Settings
+-World Time Setting
+
+After Sales Service
+Warranty Period	2 Years
+
+₹ 30,800/- Onwards

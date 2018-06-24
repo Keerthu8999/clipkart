@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mobiles</title>
+  <style>
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+    .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+
+  height: 100%
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 35%;
+  max-width: 90%;
+  padding: 0 3px;
+ 
+  height: 100%
+}
+
+.column img {
+  margin-top: 70.5px;
+  margin-left: 320px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 100%;
+    height: 100%
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+    height: 100%
+  }
+</style>
+</head>
+<body background="bg_mobiles.jpg">
+ <b><b><i><font size="10" color="black">  <marquee>Click on the product to See the details</marquee> </font> </i> </b> </b>
+  <div class="row" id="Accessories">
+    <div class="column">
+      <br>
+      <br>
+      <a href="clothes.html"><img src="sofa.jpg" width="180" height="180" hspace="10" vspace="10" align="middle"  class="image"></a>
+      <a href="clothes.html"><img src="bed.jpg" width="180" height="180" hspace="10" vspace="10" align="middle"  class="image"></a>
+      <a href="clothes.html"><img src="kitchen.jpg" width="180" height="180" hspace="10" vspace="10" align="middle"  class="image"></a>
+      <a href="clothes.html"><img src="table.jpg" width="180" height="180" hspace="10" vspace="10" align="middle"  class="image"></a>
+      <a href="clothes.html"><img src="wardrobe.jpg" width="180" height="180" hspace="10" vspace="10" align="middle"  class="image"></a>
+      </div>
+    </div>
+     <br>
+      <br>
+ <form action="ctf1.html">      
+<center><button class="button button1">Go to Home Page</button> </center>
+</form> 
+
+</body>
+</html>
