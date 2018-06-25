@@ -1,0 +1,34 @@
+Summary of Lenovo IdeaPad Y450-418952Q
+This laptop comes with Intel 2.2 GHz Core2 Duo Processor, 4 GB RAM and a 320 GB HDD. It has a DVD writer, 14 inch HD Widescreen LED display with a resolution of 1366 x 768 dpi. The laptop also has an integrated Intel Graphics Media Accelerator 4500MHD video card and integrated sound card, Wifi, Touchpad mouse and inbuilt speakers and microphone. It has interfaces like Express Card slot, 3 USB ports, firewire port, bluetooth and a 6 in 1 Digital Media Reader. It comes with an inbuilt webcam and Windows Vista Home Basic operating system. OneKey Rescue System, OneKey Theater, Ambient Light Sensor, Multi-touch pad are unique features of this laptop.
+
+Specifications
+Processor Description
+Processor	Intel
+
+Hard Drive
+Inbuilt HDD	320
+
+Display Features
+Maximum Display Resolution	1366 x 768
+
+Connectivity
+Fire Wire Port	1
+Bluetooth	1
+Built-In Camera	Yes
+Microphone	Yes
+Fingerprint Reader	No Information
+Digital Media Reader	6
+
+Battery
+Battery (Type)	Li Ion
+Battery Capacity	No Information
+
+Operating System
+OS	Windows Vista Home Basic
+Dimensions
+Weight	No Information
+
+After Sales Service
+Warranty Period	1
+
+₹ 48,037/- Onwards

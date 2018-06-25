@@ -1,0 +1,59 @@
+Summary of HP 15-R250TU (L2Z89PA)
+This HP 15-R250TU (L2Z89PA) is featured with Intel Celeron N2840. It has 4GB RAM and 500GB 5400 RPM SATA HDD and Intel HD graphics. This laptop is equipped with 15.6 inch screen and 1366 x 768 resolution. It comes with Free DOS operating system.
+
+Specifications
+Processor Description
+Processor	Intel Celeron N2840
+Speed	2.16 GHz
+Cache	1MB
+
+Memory
+RAM	4GB
+Type	DDR3
+Speed	1600 MHz
+
+Hard Drive
+Inbuilt HDD	500GB
+Speed (RPM)	5400
+Optical Drive	SuperMulti DVD burner
+
+Display Features
+Screen Size	15.6 inches
+Maximum Display Resolution	1366 x 768
+Panel Type	HD BrightView WLED-backlit
+
+Chipset
+GPU Model	Intel HD Graphics
+HDMI Port	Yes
+
+Networking
+Ethernet Port (Nos)	1
+Ethernet Type	10/100
+WiFi Type	802.11b/g/n
+
+Audio
+Speakers	Yes
+
+Connectivity
+USB 2.0 Ports	2
+USB 3.0 Ports	1
+Bluetooth	4.0
+Built-In Camera	Yes
+Microphone	Yes
+Digital Media Reader	SD
+
+Battery
+Battery (Type)	Li-Ion
+Battery Cell	4 Cell
+
+Operating System
+OS	Free DOS
+
+Dimensions
+Dimensions (W X D X H)	378 x 259 x 25.3 mm
+Weight	2.23 Kg
+
+After Sales Service
+Warranty Period	1 Year
+
+₹ 23,500/- Onwards

@@ -1,0 +1,70 @@
+Specifications
+Processor Description
+Processor	Intel Core i5-4200U
+Speed	1.60 GHz
+Cache	3MB (L3 Cache)
+Turboboost	Yes
+Turboboost Speed	2.60 GHz
+
+Memory
+RAM	4GB
+Type	DDR3
+Speed	1600 MT/s
+Hard Drive
+Inbuilt HDD	1TB
+Speed (RPM)	5400
+
+Display Features
+Screen Size	14 inches
+Maximum Display Resolution	1920 x 1080
+Panel Type	TFT colour display (TRILUMINOS DISPLAY for mobile, LED backlight, Touch screen(Capacitive), OptiContrast Panel)
+
+Chipset
+GPU Model	Intel HD Graphics 4400
+HDMI Port	Yes
+
+Networking
+Ethernet Port (Nos)	1
+Ethernet Type	10/100/1000
+WiFi Type	802.11b/g/n
+Wifi Speed	Up to 300Mbps
+
+Audio
+Audio Solution	High Definition Audio
+Speakers	Built-in Stereo Speakers
+Sound Technologies	S-FORCE Front Surround 3D, Clear Phase, xLOUD, ClearAudio+mode, VPT, Voice Zoom, Sound Optimizer
+
+Connectivity
+USB 3.0 Ports	Yes
+Bluetooth	4.0 + HS
+Built-In Camera	Yes
+Microphone	Yes
+Digital Media Reader	SD, SDHC, SDXC
+
+Battery
+Battery (Type)	Li-Ion
+Battery Capacity	6 Hrs
+Battery Cell	4 Cell
+Operating System
+OS	Windows 8
+
+Dimensions
+Dimensions (W X D X H)	336.1 x 234.9 x 19.8 mm
+Weight	1.96 Kg
+Misc Bundled Software
+
+Other Features	
+Skype, Socialife, Air Soccer Fever
+-Microsoft Office
+-Music App, Imagination Studio VAIO Edition (ACID Music Studio 9, Sound Forge Audio Studio 10)
+-Imagination Studio VAIO Edition (DVD Architect Studio 5.0, Movie Studio Platinum 12), Adobe Photoshop Elements 11, PlayMemories Home, VAIO 
+
+Movie Creator, Album App
+-Trend Micro Titanium Maximum Security 60days
+-VAIO Message Center, VAIO Control Center, VAIO Gesture Control, Xperia Link, Adobe Reader XI, Norton Online Backup
+-VAIO Care, VAIO Transfer Support, VAIO Update
+
+After Sales Service
+Warranty Period	1 Year
+
+Cost  : 54,000 onwards

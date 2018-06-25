@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Men's World</title>
+  <style>
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+    .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+
+  height: 100%
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 35%;
+  max-width: 90%;
+  padding: 0 3px;
+ 
+  height: 100%
+}
+
+.column img {
+  margin-top: 70.5px;
+  margin-left: 320px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 100%;
+    height: 100%
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+    height: 100%
+
+  }
+}
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 40%;
+  height: auto;
+
+    margin-left: 500px;
+    margin-right: auto;
+  
+
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 40%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+
+    margin-left: 500px;
+    margin-right: auto;
+    
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
+</head>
+<body background="bg_mobiles.jpg">
+ <b><b><i><font size="10" color="black">  <marquee>Click on the product to See the details</marquee> </font> </i> </b> </b>
+  <div class="container">
+  <img src="shoes.jpg" alt="Avatar" class="image" class="center">
+  <div class="overlay">
+    <div class="text">Rs.1000</div>
+  </div>
+</div>
+<br><br><br><br>
+<br><br>
+
+<div class="container">
+  <img src="wallet.jpg" alt="Avatar" class="image" class="center">
+  <div class="overlay">
+    <div class="text">Rs.800</div>
+  </div>
+</div>
+<br><br><br><br>
+<br><br>
+
+<div class="container">
+  <img src="belt.jpg" alt="Avatar" class="image" class="center">
+  <div class="overlay">
+    <div class="text">Rs.400</div>
+  </div>
+</div>
+<br><br><br><br>
+<br><br>
+
+<div class="container">
+  <img src="cologne.jpg" alt="Avatar" class="image" class="center">
+  <div class="overlay">
+    <div class="text">Rs.1800</div>
+  </div>
+</div>
+<br><br><br><br>
+<br><br>
+
+<div class="container">
+  <img src="coolers.jpg" alt="Avatar" class="image" class="center">
+  <div class="overlay">
+    <div class="text">Rs.2000</div>
+  </div>
+</div>
+<br><br><br><br>
+<br><br>
+ <form action="ctf1.html">      
+<center><button class="button button1">Go to Home Page</button> </center>
+</form> 
+
+</body>
+</html>

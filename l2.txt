@@ -1,0 +1,39 @@
+Summary of Apple MacBook Pro (15-inch, 2.4GHz)
+This laptop comes with Intel 2.4 GHz Core2 Duo Processor, 2 GB RAM which is upgradeable upto 4 GB and a 250 GB HDD. It has a DVD writer, 15.4 inch display with a resolution of 1440 x 900 pixels. The laptop also has an integrated NVIDIA GeForce 9400M GT video card, Wi-Fi, integrated sound card, Touchpad Mouse, inbuilt speakers and microphone. The laptop has interfaces like Express Card slot, 2 USB ports, Mini Display Port, firewire port and bluetooth. It comes with an inbuilt web camera and Mac OS X operaitng system.
+
+Specifications
+Processor Description
+Processor	Intel
+
+Hard Drive
+Inbuilt HDD	250
+
+Display Features
+Maximum Display Resolution	1440 x 900
+
+Connectivity
+Fire Wire Port	1
+Bluetooth	1
+Built-In Camera	Yes
+Microphone	Yes
+Fingerprint Reader	No Information
+Digital Media Reader	0
+
+Battery
+Battery (Type)	Lithium Polymer
+Battery Capacity	5
+
+Operating System
+OS	Mac OS X + Life
+
+Dimensions
+Weight	2.49
+
+After Sales Service
+Warranty Period	1
+
+Processor: Intel
+Inbuilt HDD: 250
+OS: Mac OS X + Life
+Battery (Type): Lithium Polymer
+₹ 113,000/- Onwards

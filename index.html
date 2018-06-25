@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>E-Commerce</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+}
+
+/* Style tab links */
+.tablink {
+    
+    background-color: purple;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 15px;
+    font-size: 17px;
+    width: 20%;
+}
+
+.tablink:hover {
+    
+}
+
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+.w3-btn w3-black
+{
+	padding: 14px 40px;
+}
+.mySlides {display:none;}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 15px 0px rgba(0,0,0,0.2);
+    padding: 15px 15px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+    .button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 15px;
+    color: #FFFFFF;
+    padding: 15px;
+    width: 100px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #80EE80;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+.links
+{
+  position: relative;
+   top: 50px; 
+
+}
+
+</style>
+</head>
+<body background="backgr.jpg">
+	<marquee><h3> Welcome to the E-Commerce Site of 2k18 </h3></marquee>
+	<button class="tablink" onclick="openPage(event,'Home')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="openPage(event,'About')" >About Us</button>
+<button class="tablink" onclick="openPage(event,'Products')">Products Offered</button>
+<button class="tablink" onclick="openPage(event,'Contact')">Contact</button>
+<button class="tablink" onclick="openPage(event,'Filter')">Filter and Show</button>
+
+<br>
+<br>
+<br>
+
+<div class="w3-content w3-section" style="max-width:500px">
+   <img class="mySlides" src="cover1.jpg" width= "100%"> 
+ <img class="mySlides" src="cover2.jpg" width="100%"> 
+ <img class="mySlides" src="cover4.jpg" width="100%"> 
+ <img class="mySlides" src="cover5.jpg" width="100%"> 
+   <img class="mySlides" src="cover3.jpg" width="100%"> 
+</div>
+<div id="Home" class="w3-container tabcontent" style="color: purple">
+<p><center><h3><b>Hello! This is the home page..<br>
+  Blahhhh<br>Blah Blahhhh<br>Blah Blah Blaahhhh</b></h3></center></p>
+</div>
+<div id="About" class="w3-container tabcontent" style="color: purple">
+	<p><center><h3><b>Hello! This is the about us page..<br>
+  Blahhhh<br>Blah Blahhhh<br>Blah Blah Blaahhhh</b></h3></center></p>
+<div id = "links" class = "links">
+    <center>
+    <a href="https://www.facebook.com/keeru8999" ><img src="fb.png" width="40" height="40"></a>
+    <a href="https://github.com/Keerthu8999" ><img src="github.png" width="40" height="40"></a>
+    <a href="https://www.instagram.com/keerthu8999/" ><img src="instagram.png"  width="40" height="40"></a>
+    <a href="https://www.quora.com/profile/Keerthana-Sunder-2" ><img src="quora.png"  width="40" height="40"></a>
+  </div>
+</center>
+</div>	
+<div id="Products" class="w3-container tabcontent">
+	 <div class="dropdown">
+  <span><button class="w3-btn w3-purple" style="padding: 14px 70px;margin-right: 15px">Gadgets</button></span>
+  <div class="dropdown-content" style="background-color: purple">
+   <a href="mobile.html"><button class="w3-btn " style="padding: 5px" id="mobiles">Mobiles</button></a><br><br>
+      <a href="laptop.html"><button class="w3-btn " style="padding: 5px" id="laptop">Laptops</button></a><br><br>
+      <a href="camera.html"><button class="w3-btn " style="padding: 5px" id="camera">Camera</button></a><br>
+  </div>
+</div>
+
+
+<div class="dropdown">
+  <span><button class="w3-btn w3-purple" style="padding: 14px 70px;margin-right: 15px">Clothing</button></span>
+  <div class="dropdown-content" style="background-color: purple">
+   <a href="men_wear.html"><button class="w3-btn" style="padding: 5px" id="menwear">Men</button></a><br><br>
+      <a href="women_wear.html"><button class="w3-btn " style="padding: 5px" id="womenwear">Women</button></a><br><br>
+  
+  </div>
+</div>
+
+
+
+
+
+<div class="dropdown">
+  <span><button class="w3-btn w3-purple" style="padding: 14px 75px;margin-right: 15px">Accessories</button></a></span>
+  <div class="dropdown-content" style="background-color: purple">
+   <a href="womena.html"><button class="w3-btn " style="padding: 5px" id="women">Womens World</button></a><br><br>
+      <a href="mena.html"><button class="w3-btn" style="padding: 5px" id="men">Mens section</button></a><br><br>
+      <a href="moba.html"><button class="w3-btn " style="padding: 5px" id="mob_acc">Mobile Accesoories</button></a><br>
+  </div>
+</div>
+    
+    
+
+     <div class="dropdown">
+  <span><button class="w3-btn w3-purple" style="padding: 14px 72px;margin-right: 15px">Food</button></span>
+  <div class="dropdown-content" style="background-color: purple ">
+   <a href="fruits.html"><button class="w3-btn " style="padding: 5px" id="Fruits">Fruits</button></a><br><br>
+      <a href="vegetables.html"><button class="w3-btn " style="padding: 5px" id="Vegetables">Vegetables</button></a><br><br>
+      <a href="grocery.html"><button class="w3-btn " style="padding: 5px" id="Groceries">Groceries</button></a><br>
+  </div>
+</div>
+
+
+<div class="dropdown">
+  <span><a href="book.html"><button class="w3-btn w3-purple" style="padding: 14px 73px;margin-right: 12px">Books</button></a></span>
+ 
+</div>
+
+
+
+
+
+<div class="dropdown">
+  <span><a href="furnitures.html"><button class="w3-btn w3-purple" style="padding: 14px 70px;margin-right: 15px">Furniture</button></a></span>
+
+</div>
+     
+ 
+</div>
+
+
+<div id="Contact" class="tabcontent">
+	<form class="w3-container w3-card-4" action="ctf.html">
+  <h2 class="w3-text-purple">Input Form</h2>
+  <p>      
+  <label class="w3-text-purple"><b>First Name</b></label>
+  <input class="w3-input w3-border" name="first" type="text"></p>
+  <p>      
+  <label class="w3-text-purple"><b>Last Name</b></label>
+  <input class="w3-input w3-border" name="last" type="text"></p>
+  <p>      
+  <label class="w3-text-purple"><b>Email</b></label>
+  <input class="w3-input w3-border" name="mail" type="email"></p>
+  <p>      
+  <label class="w3-text-purple"><b>Contact</b></label>
+  <input class="w3-input w3-border" name="number" type="number"></p>
+  <p>      
+  <label class="w3-text-purple"><b>Comments</b></label>
+  <input class="w3-input w3-border" name="Comments" type="text"></p>
+  <p>      
+  <button class="w3-btn w3-text-purple">Submit</button></p>
+</form>
+</div>
+
+<div id="Filter" class="tabcontent">
+    
+<center><form action="price.php"><button type="Submit" class="w3-btn w3-hover-purple" style="padding: 14px 60px;margin-right: 15px" >Gadgets</button></form></center>
+<center><form action="accessories.php"><button type="Submit" class="w3-btn w3-hover-purple" style="padding: 14px 60px;margin-right: 15px" >Accessories</button></form></center>
+<center><form action="furniture.php"><button type="Submit" class="w3-btn w3-hover-purple" style="padding: 14px 60px;margin-right: 15px" >Furniture</button></form></center>
+<center><form action="clothes.php"><button type="Submit" class="w3-btn w3-hover-purple" style="padding: 14px 60px;margin-right: 15px" >Clothes</button></form></center>
+<center><form action="food.php"><button type="Submit" class="w3-btn w3-hover-purple" style="padding: 14px 60px;margin-right: 15px" >Food</button></form></center>
+<center><form action="books.php"><button type="Submit" class="w3-btn w3-hover-purple" style="padding: 14px 60px;margin-right: 15px">Books</button></form></center>
+</div>
+
+<script>
+function openPage(evt, taskName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(taskName).style.display = "block";
+    evt.currentTarget.className += " active";
+} 
+document.getElementById("defaultOpen").click();
+
+</script>
+<script>
+	var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html>
